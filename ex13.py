@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+
+from sys import argv
+
+script, first, second, third = argv
+
+print "This script is called:", script
+print "You first variable is:", first
+print "You second variable is:", second
+print "You third variable is:", third
+
